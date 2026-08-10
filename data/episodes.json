@@ -1,0 +1,19 @@
+{
+  "series": "三日坊主以降の坊主",
+  "episodes": [
+    {
+      "number": 1,
+      "title": "三日坊主以降の坊主",
+      "date": "2026-08-11",
+      "script": "./episodes/001/script.md",
+      "pages": []
+    },
+    {
+      "number": 2,
+      "title": "四日坊主、資格制度になる",
+      "date": "2026-08-11",
+      "script": "./episodes/002/script.md",
+      "pages": []
+    }
+  ]
+}
