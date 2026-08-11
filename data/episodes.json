@@ -7,7 +7,7 @@
       "date": "2026-08-11",
       "script": "./episodes/001/script.md",
       "pages": [
-        "./episodes/001/page-01.webp",
+        "./episodes/001/page-01-v2.webp",
         "./episodes/001/page-02.webp",
         "./episodes/001/page-03.webp",
         "./episodes/001/page-04.webp"
