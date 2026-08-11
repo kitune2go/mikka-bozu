@@ -18,7 +18,12 @@
       "title": "四日坊主、資格制度になる",
       "date": "2026-08-11",
       "script": "./episodes/002/script.md",
-      "pages": []
+      "pages": [
+        "./episodes/002/page-01-v1.webp",
+        "./episodes/002/page-02-v1.webp",
+        "./episodes/002/page-03-v1.webp",
+        "./episodes/002/page-04-v1.webp"
+      ]
     }
   ]
 }
