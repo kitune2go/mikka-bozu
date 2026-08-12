@@ -24,6 +24,18 @@
         "./episodes/002/page-03-v1.webp",
         "./episodes/002/page-04-v1.webp"
       ]
+    },
+    {
+      "number": 3,
+      "title": "五日坊主、更新講習を受ける",
+      "date": "2026-08-12",
+      "script": "./episodes/003/script.md",
+      "pages": [
+        "./episodes/003/page-01-v1.webp",
+        "./episodes/003/page-02-v1.webp",
+        "./episodes/003/page-03-v1.webp",
+        "./episodes/003/page-04-v1.webp"
+      ]
     }
   ]
 }
