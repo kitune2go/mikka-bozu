@@ -36,6 +36,18 @@
         "./episodes/003/page-03-v1.webp",
         "./episodes/003/page-04-v1.webp"
       ]
+    },
+    {
+      "number": 4,
+      "title": "六日坊主、労働基準法を要求する",
+      "date": "2026-08-13",
+      "script": "./episodes/004/script.md",
+      "pages": [
+        "./episodes/004/page-01-v1.webp",
+        "./episodes/004/page-02-v1.webp",
+        "./episodes/004/page-03-v1.webp",
+        "./episodes/004/page-04-v1.webp"
+      ]
     }
   ]
 }
