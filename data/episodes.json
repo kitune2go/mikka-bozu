@@ -54,12 +54,7 @@
       "title": "七日坊主、組合を結成する",
       "date": "2026-08-14",
       "script": "./episodes/005/script.md",
-      "pages": [
-        "./episodes/005/page-01-v1.webp",
-        "./episodes/005/page-02-v1.webp",
-        "./episodes/005/page-03-v1.webp",
-        "./episodes/005/page-04-v1.webp"
-      ]
+      "pages": []
     }
   ]
 }
