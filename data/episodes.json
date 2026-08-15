@@ -60,6 +60,18 @@
         "./episodes/005/page-03-v2.webp",
         "./episodes/005/page-04-v2.webp"
       ]
+    },
+    {
+      "number": 6,
+      "title": "八日坊主、休む理由を提出する",
+      "date": "2026-08-15",
+      "script": "./episodes/006/script.md",
+      "pages": [
+        "./episodes/006/page-01-v1.webp",
+        "./episodes/006/page-02-v1.webp",
+        "./episodes/006/page-03-v1.webp",
+        "./episodes/006/page-04-v1.webp"
+      ]
     }
   ]
 }
