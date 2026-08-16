@@ -72,6 +72,18 @@
         "./episodes/006/page-03-v1.webp",
         "./episodes/006/page-04-v1.webp"
       ]
+    },
+    {
+      "number": 7,
+      "title": "九日坊主、休暇担当になる",
+      "date": "2026-08-16",
+      "script": "./episodes/007/script.md",
+      "pages": [
+        "./episodes/007/page-01-v1.webp",
+        "./episodes/007/page-02-v1.webp",
+        "./episodes/007/page-03-v1.webp",
+        "./episodes/007/page-04-v1.webp"
+      ]
     }
   ]
 }
