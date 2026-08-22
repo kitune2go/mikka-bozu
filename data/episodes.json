@@ -86,15 +86,15 @@
       ]
     },
     {
-      "number": 10,
+      "number": 8,
       "title": "十日坊主、代休を資産化する",
       "date": "2026-08-23",
-      "script": "./episodes/010/script.md",
+      "script": "./episodes/008/script.md",
       "pages": [
-        "./episodes/010/page-01-v1.webp",
-        "./episodes/010/page-02-v1.webp",
-        "./episodes/010/page-03-v1.webp",
-        "./episodes/010/page-04-v1.webp"
+        "./episodes/008/page-01-v1.webp",
+        "./episodes/008/page-02-v1.webp",
+        "./episodes/008/page-03-v1.webp",
+        "./episodes/008/page-04-v1.webp"
       ]
     }
   ]
