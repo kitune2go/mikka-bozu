@@ -96,6 +96,18 @@
         "./episodes/008/page-03-v1.webp",
         "./episodes/008/page-04-v1.webp"
       ]
+    },
+    {
+      "number": 9,
+      "title": "十二日坊主、休暇市場を崩壊させる",
+      "date": "2026-08-23",
+      "script": "./episodes/009/script.md",
+      "pages": [
+        "./episodes/009/page-01-v1.webp",
+        "./episodes/009/page-02-v1.webp",
+        "./episodes/009/page-03-v1.webp",
+        "./episodes/009/page-04-v1.webp"
+      ]
     }
   ]
 }
