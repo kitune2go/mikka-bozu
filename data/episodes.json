@@ -108,6 +108,18 @@
         "./episodes/009/page-03-v1.webp",
         "./episodes/009/page-04-v1.webp"
       ]
+    },
+    {
+      "number": 10,
+      "title": "十二日坊主、休暇税を申告する",
+      "date": "2026-08-25",
+      "script": "./episodes/010/script.md",
+      "pages": [
+        "./episodes/010/page-01-v1.webp",
+        "./episodes/010/page-02-v1.webp",
+        "./episodes/010/page-03-v1.webp",
+        "./episodes/010/page-04-v1.webp"
+      ]
     }
   ]
 }
